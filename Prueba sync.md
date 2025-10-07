@@ -1,0 +1,1 @@
+Esto es una prueba de obsidian estando almacenado en disco duro de "Archivos". Luego se comprobará en Linux si funciona y se guardan los datos cuando sobrescribo en ambos sistemas

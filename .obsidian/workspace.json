@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "77e85f3f970997b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "70b060342c5e1896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af6b716f7872444f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hola.txt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hola.txt"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8c5f79e0527b1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46aecce6a1078b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42af4f1ef891900d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "8042cedd39507497",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#RRGGBB",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d481b69de8ac5693",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fae838fe73b5e1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Áreas/Tecnología y Desarrollo/Full Stack/02 - CSS/04 - Especificidad y herencia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "04 - Especificidad y herencia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "279416c7625b4660",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd9a64f0deb3159",
+        "type": "tabs",
+        "dimension": 55.534351145038165,
+        "children": [
+          {
+            "id": "53f920f8060070a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "18 - ORM y ODM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 18 - ORM y ODM"
+            }
+          },
+          {
+            "id": "5720a8812050f3b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción a HTML5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Introducción a HTML5"
+            }
+          },
+          {
+            "id": "df102072c4a377ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4c18205f15a43f5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "18 - ORM y ODM.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 18 - ORM y ODM"
+            }
+          },
+          {
+            "id": "c6412785a0953c64",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "23fe4a3a7f26a946",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "34fdae328af5d308",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "2cfbdb189a96791f",
+        "type": "tabs",
+        "dimension": 25.381679389312975,
+        "children": [
+          {
+            "id": "d82a52f062da54ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa65108cc73d99ed",
+        "type": "tabs",
+        "dimension": 19.083969465648856,
+        "children": [
+          {
+            "id": "f0dfdec2b03b949e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "bases:Crear nueva base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "42af4f1ef891900d",
+  "lastOpenFiles": [
+    "jscamp/01 - Introducción al Bootcamp",
+    "jscamp",
+    "hola.txt.md",
+    "Introducción a HTML5.md",
+    "Prueba sync.md",
+    "Sin título.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/07 - Bases de Datos/01 - Introducción a las bases de datos.md",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/00 - MOC - Full Stack.md",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/05 - Build Tools/11 - Webpack.md",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/05 - Build Tools/10 - Vite.md",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/05 - Build Tools/09 - Introducción a bundlers.md",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/05 - Build Tools/08 - Publicación de paquetes.md",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/05 - Build Tools/07 - Resolución de conflictos y troubleshooting.md",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/05 - Build Tools/06 - Gestión de paquetes.md",
+    "25 - CI",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/16 - Carrera & Freelance",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/15 - Extras",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/14 - Proyecto Final",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/13 - Arquitectura & Buenas Prácticas",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/12 - Performance & Escalabilidad",
+    "02 - Áreas/Tecnología y Desarrollo/Full Stack/11 - Testing & QA",
+    "04 - Recursos/caja-variable.png",
+    "04 - Recursos/crear-hoja-python.png",
+    "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
+    "Business/Journal/Technical/Migrated/assets/original.jpg",
+    "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
+    "Business/Journal/Technical/Migrated/assets/iqueryable-dbcontext-everywhere.jpg",
+    "Business/Journal/Technical/Migrated/assets/image4.png",
+    "Business/Journal/Technical/Migrated/assets/image3.png",
+    "Business/Journal/Technical/Migrated/assets/image2.png",
+    "Business/Journal/Technical/Migrated/assets/image1.png",
+    "Business/Journal/Technical/Migrated/Mind Map.canvas",
+    "Journal/Technical/Migrated/Mind Map.canvas",
+    "Technical/Migrated/Mind Map.canvas"
+  ]
+}
